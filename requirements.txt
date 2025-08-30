@@ -3,3 +3,4 @@ uvicorn[standard]
 gunicorn
 openai
 python-multipart
+PyPDF2
