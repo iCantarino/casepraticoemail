@@ -1,12 +1,12 @@
 # Case Pratico Email
-
+<br>
 Para rodar localmente:
-
-Passo 1: Pré-requisitos
-1 - Ter o Python 3.9+ instalado
-2 - Instalar o pip (gerenciador de pacotes do Python)
-3 - Ter uma chave válida da API da OpenAI
-
+<br>
+Passo 1: Pré-requisitos<br>
+1 - Ter o Python 3.9+ instalado<br>
+2 - Instalar o pip (gerenciador de pacotes do Python)<br>
+3 - Ter uma chave válida da API da OpenAI<br>
+<br>
 Passo 2: Clonar ou baixar o projeto
 1 - Caso vá clonar, clone o repositório usando o terminal com: git clone https://github.com/iCantarino/casepraticoemail
 2 - Também é possivel baixar os arquivos pela página do repositório
