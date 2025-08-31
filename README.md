@@ -23,6 +23,7 @@ uvicorn[standard]<br>
 gunicorn<br>
 openai<br>
 python-multipart<br>
+PyPDF2<br>
 <br>
 Passo 5: Criar variável de ambiente da OpenAI para sua chave<br>
 1 - No CMD execute setx OPENAI_API_KEY "sua_chave"<br>
